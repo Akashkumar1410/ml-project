@@ -1,0 +1,8 @@
+.venv
+
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/sample.iml
+.idea/vcs.xml main.py
+.neu_net.py
