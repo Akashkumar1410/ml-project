@@ -1,0 +1,363 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area
+lp001015,male,yes,0,graduate,no,5720,0,110,360,1,urban
+lp001022,male,yes,1,graduate,no,3076,1500,126,360,1,urban
+lp001031,male,yes,2,graduate,no,5000,1800,208,360,1,urban
+lp001035,male,yes,2,graduate,no,2340,2546,100,360,1,urban
+lp001051,male,no,0,not graduate,no,3276,0,78,360,1,urban
+lp001054,male,yes,0,not graduate,yes,2165,3422,152,360,1,urban
+lp001055,female,no,1,not graduate,no,2226,0,59,360,1,semiurban
+lp001056,male,yes,2,not graduate,no,3881,0,147,360,0,rural
+lp001059,male,yes,2,graduate,no,13633,0,280,240,1,urban
+lp001067,male,no,0,not graduate,no,2400,2400,123,360,1,semiurban
+lp001078,male,no,0,not graduate,no,3091,0,90,360,1,urban
+lp001082,male,yes,1,graduate,no,2185,1516,162,360,1,semiurban
+lp001083,male,no,3,graduate,no,4166,0,40,180,1,urban
+lp001094,male,yes,2,graduate,no,12173,0,166,360,0,semiurban
+lp001096,female,no,0,graduate,no,4666,0,124,360,1,semiurban
+lp001099,male,no,1,graduate,no,5667,0,131,360,1,urban
+lp001105,male,yes,2,graduate,no,4583,2916,200,360,1,urban
+lp001107,male,yes,3,graduate,no,3786,333,126,360,1,semiurban
+lp001108,male,yes,0,graduate,no,9226,7916,300,360,1,urban
+lp001115,male,no,0,graduate,no,1300,3470,100,180,1,semiurban
+lp001121,male,yes,1,not graduate,no,1888,1620,48,360,1,urban
+lp001124,female,no,3,not graduate,no,2083,0,28,180,1,urban
+lp001128,male,no,0,graduate,no,3909,0,101,360,1,urban
+lp001135,female,no,0,not graduate,no,3765,0,125,360,1,urban
+lp001149,male,yes,0,graduate,no,5400,4380,290,360,1,urban
+lp001153,male,no,0,graduate,no,0,24000,148,360,0,rural
+lp001163,male,yes,2,graduate,no,4363,1250,140,360,1,urban
+lp001169,male,yes,0,graduate,no,7500,3750,275,360,1,urban
+lp001174,male,yes,0,graduate,no,3772,833,57,360,1,semiurban
+lp001176,male,no,0,graduate,no,2942,2382,125,180,1,urban
+lp001177,female,no,0,not graduate,no,2478,0,75,360,1,semiurban
+lp001183,male,yes,2,graduate,no,6250,820,192,360,1,urban
+lp001185,male,no,0,graduate,no,3268,1683,152,360,1,semiurban
+lp001187,male,yes,0,graduate,no,2783,2708,158,360,1,urban
+lp001190,male,yes,0,graduate,no,2740,1541,101,360,1,urban
+lp001203,male,no,0,graduate,no,3150,0,176,360,0,semiurban
+lp001208,male,yes,2,graduate,no,7350,4029,185,180,1,urban
+lp001210,male,yes,0,graduate,yes,2267,2792,90,360,1,urban
+lp001211,male,no,0,graduate,yes,5833,0,116,360,1,urban
+lp001219,male,no,0,graduate,no,3643,1963,138,360,1,urban
+lp001220,male,yes,0,graduate,no,5629,818,100,360,1,urban
+lp001221,female,no,0,graduate,no,3644,0,110,360,1,urban
+lp001226,male,yes,0,not graduate,no,1750,2024,90,360,1,semiurban
+lp001230,male,no,0,graduate,no,6500,2600,200,360,1,semiurban
+lp001231,female,no,0,graduate,no,3666,0,84,360,1,urban
+lp001232,male,yes,0,graduate,no,4260,3900,185,341,1,urban
+lp001237,male,yes,0,not graduate,no,4163,1475,162,360,1,urban
+lp001242,male,no,0,not graduate,no,2356,1902,108,360,1,semiurban
+lp001268,male,no,0,graduate,no,6792,3338,187,341,1,urban
+lp001270,male,yes,3,not graduate,yes,8000,250,187,360,1,semiurban
+lp001284,male,yes,1,graduate,no,2419,1707,124,360,1,urban
+lp001287,male,yes,3,not graduate,no,3500,833,120,360,1,semiurban
+lp001291,male,yes,1,graduate,no,3500,3077,160,360,1,semiurban
+lp001298,male,yes,2,graduate,no,4116,1000,30,180,1,urban
+lp001312,male,yes,0,not graduate,yes,5293,0,92,360,1,urban
+lp001313,male,no,0,graduate,no,2750,0,130,360,0,urban
+lp001317,female,no,0,not graduate,no,4402,0,130,360,1,rural
+lp001321,male,yes,2,graduate,no,3613,3539,134,180,1,semiurban
+lp001323,female,yes,2,graduate,no,2779,3664,176,360,0,semiurban
+lp001324,male,yes,3,graduate,no,4720,0,90,180,1,semiurban
+lp001332,male,yes,0,not graduate,no,2415,1721,110,360,1,semiurban
+lp001335,male,yes,0,graduate,yes,7016,292,125,360,1,urban
+lp001338,female,no,2,graduate,no,4968,0,189,360,1,semiurban
+lp001347,female,no,0,graduate,no,2101,1500,108,360,0,rural
+lp001348,male,yes,3,not graduate,no,4490,0,125,360,1,urban
+lp001351,male,yes,0,graduate,no,2917,3583,138,360,1,semiurban
+lp001352,male,yes,0,not graduate,no,4700,0,135,360,0,semiurban
+lp001358,male,yes,0,graduate,no,3445,0,130,360,0,semiurban
+lp001359,male,yes,0,graduate,no,7666,0,187,360,1,semiurban
+lp001361,male,yes,0,graduate,no,2458,5105,188,360,0,rural
+lp001366,female,no,0,graduate,no,3250,0,95,360,1,semiurban
+lp001368,male,no,0,graduate,no,4463,0,65,360,1,semiurban
+lp001375,male,yes,1,graduate,no,4083,1775,139,60,1,urban
+lp001380,male,yes,0,graduate,yes,3900,2094,232,360,1,rural
+lp001386,male,yes,0,not graduate,no,4750,3583,144,360,1,semiurban
+lp001400,male,no,0,graduate,no,3583,3435,155,360,1,urban
+lp001407,male,yes,0,graduate,no,3189,2367,186,360,1,urban
+lp001413,male,no,0,graduate,yes,6356,0,50,360,1,rural
+lp001419,female,yes,0,graduate,no,7950,0,185,360,1,urban
+lp001420,male,yes,3,graduate,no,3829,1103,163,360,0,urban
+lp001428,male,yes,3,graduate,no,72529,0,360,360,1,urban
+lp001445,male,yes,2,not graduate,no,4136,0,149,480,0,rural
+lp001446,male,yes,0,graduate,no,8449,0,257,360,1,rural
+lp001450,male,yes,0,graduate,no,4456,0,131,180,0,semiurban
+lp001452,male,yes,2,graduate,no,4635,8000,102,180,1,rural
+lp001455,male,yes,0,graduate,no,3571,1917,135,360,1,urban
+lp001466,male,no,0,graduate,no,3066,0,95,360,1,semiurban
+lp001471,male,no,2,not graduate,no,3235,2015,77,360,1,semiurban
+lp001472,female,no,0,graduate,no,5058,0,200,360,1,rural
+lp001475,male,yes,0,graduate,yes,3188,2286,130,360,1,rural
+lp001483,male,yes,3,graduate,no,13518,0,390,360,1,rural
+lp001486,male,yes,1,graduate,no,4364,2500,185,360,1,semiurban
+lp001490,male,yes,2,not graduate,no,4766,1646,100,360,1,semiurban
+lp001496,male,yes,1,graduate,no,4609,2333,123,360,0,semiurban
+lp001499,female,yes,3,graduate,no,6260,0,110,360,1,semiurban
+lp001500,male,yes,1,graduate,no,3333,4200,256,360,1,urban
+lp001501,male,yes,0,graduate,no,3500,3250,140,360,1,semiurban
+lp001517,male,yes,3,graduate,no,9719,0,61,360,1,urban
+lp001527,male,yes,3,graduate,no,6835,0,188,360,1,semiurban
+lp001534,male,no,0,graduate,no,4452,0,131,360,1,rural
+lp001547,male,yes,1,graduate,no,3901,0,116,360,1,urban
+lp001548,male,yes,2,not graduate,no,2687,0,50,180,1,rural
+lp001558,male,no,0,graduate,no,2243,2233,107,360,1,semiurban
+lp001561,female,yes,0,graduate,no,3417,1287,200,360,1,semiurban
+lp001563,male,no,0,graduate,no,1596,1760,119,360,0,urban
+lp001567,male,yes,3,graduate,no,4513,0,120,360,1,rural
+lp001568,male,yes,0,graduate,no,4500,0,140,360,1,semiurban
+lp001573,male,yes,0,not graduate,no,4523,1350,165,360,1,urban
+lp001584,female,no,0,graduate,yes,4742,0,108,360,1,semiurban
+lp001587,male,yes,0,graduate,no,4082,0,93,360,1,semiurban
+lp001589,female,no,0,graduate,no,3417,0,102,360,1,urban
+lp001591,female,yes,2,graduate,no,2922,3396,122,360,1,semiurban
+lp001599,male,yes,0,graduate,no,4167,4754,160,360,1,rural
+lp001601,male,no,3,graduate,no,4243,4123,157,360,1,semiurban
+lp001607,female,no,0,not graduate,no,0,1760,180,360,1,semiurban
+lp001611,male,yes,1,graduate,no,1516,2900,80,341,0,rural
+lp001613,female,no,0,graduate,no,1762,2666,104,360,0,urban
+lp001622,male,yes,2,graduate,no,724,3510,213,360,0,rural
+lp001627,male,no,0,graduate,no,3125,0,65,360,1,urban
+lp001650,male,yes,0,graduate,no,2333,3803,146,360,1,rural
+lp001651,male,yes,3,graduate,no,3350,1560,135,360,1,urban
+lp001652,male,no,0,graduate,no,2500,6414,187,360,0,rural
+lp001655,female,no,0,graduate,no,12500,0,300,360,0,urban
+lp001660,male,no,0,graduate,no,4667,0,120,360,1,semiurban
+lp001662,male,no,0,graduate,no,6500,0,71,360,0,urban
+lp001663,male,yes,2,graduate,no,7500,0,225,360,1,urban
+lp001667,male,no,0,graduate,no,3073,0,70,180,1,urban
+lp001695,male,yes,1,not graduate,no,3321,2088,70,341,1,semiurban
+lp001703,male,yes,0,graduate,no,3333,1270,124,360,1,urban
+lp001718,male,no,0,graduate,no,3391,0,132,360,1,rural
+lp001728,male,yes,1,graduate,yes,3343,1517,105,360,1,rural
+lp001735,female,no,1,graduate,no,3620,0,90,360,1,urban
+lp001737,male,no,0,graduate,no,4000,0,83,84,1,urban
+lp001739,male,yes,0,graduate,no,4258,0,125,360,1,urban
+lp001742,male,yes,2,graduate,no,4500,0,147,360,1,rural
+lp001757,male,yes,1,graduate,no,2014,2925,120,360,1,rural
+lp001769,male,no,0,graduate,no,3333,1250,110,360,1,semiurban
+lp001771,female,no,3,graduate,no,4083,0,103,360,1,semiurban
+lp001785,male,no,0,graduate,no,4727,0,150,360,0,rural
+lp001787,male,yes,3,graduate,no,3089,2999,100,240,1,rural
+lp001789,male,yes,3,not graduate,no,6794,528,139,360,0,urban
+lp001791,male,yes,0,graduate,yes,32000,0,550,360,1,semiurban
+lp001794,male,yes,2,graduate,yes,10890,0,260,12,1,rural
+lp001797,female,no,0,graduate,no,12941,0,150,300,1,urban
+lp001815,male,no,0,not graduate,no,3276,0,90,360,1,semiurban
+lp001817,male,no,0,not graduate,yes,8703,0,199,360,0,rural
+lp001818,male,yes,1,graduate,no,4742,717,139,360,1,semiurban
+lp001822,male,no,0,graduate,no,5900,0,150,360,1,urban
+lp001827,male,no,0,graduate,no,3071,4309,180,360,1,urban
+lp001831,male,yes,0,graduate,no,2783,1456,113,360,1,urban
+lp001842,male,no,0,graduate,no,5000,0,148,360,1,rural
+lp001853,male,yes,1,not graduate,no,2463,2360,117,360,0,urban
+lp001855,male,yes,2,graduate,no,4855,0,72,360,1,rural
+lp001857,male,no,0,not graduate,yes,1599,2474,125,300,1,semiurban
+lp001862,male,yes,2,graduate,yes,4246,4246,214,360,1,urban
+lp001867,male,yes,0,graduate,no,4333,2291,133,350,1,rural
+lp001878,male,no,1,graduate,no,5823,2529,187,360,1,semiurban
+lp001881,male,yes,0,not graduate,no,7895,0,143,360,1,rural
+lp001886,male,no,0,graduate,no,4150,4256,209,360,1,rural
+lp001906,male,no,0,graduate,no,2964,0,84,360,0,semiurban
+lp001909,male,no,0,graduate,no,5583,0,116,360,1,urban
+lp001911,female,no,0,graduate,no,2708,0,65,360,1,rural
+lp001921,male,no,1,graduate,no,3180,2370,80,240,1,rural
+lp001923,male,no,0,not graduate,no,2268,0,170,360,0,semiurban
+lp001933,male,no,2,not graduate,no,1141,2017,120,360,0,urban
+lp001943,male,yes,0,graduate,no,3042,3167,135,360,1,urban
+lp001950,female,yes,3,graduate,no,1750,2935,94,360,0,semiurban
+lp001959,female,yes,1,graduate,no,3564,0,79,360,1,rural
+lp001961,female,no,0,graduate,no,3958,0,110,360,1,rural
+lp001973,male,yes,2,not graduate,no,4483,0,130,360,1,rural
+lp001975,male,yes,0,graduate,no,5225,0,143,360,1,rural
+lp001979,male,no,0,graduate,no,3017,2845,159,180,0,urban
+lp001995,male,yes,0,not graduate,no,2431,1820,110,360,0,rural
+lp001999,male,yes,2,graduate,no,4912,4614,160,360,1,rural
+lp002007,male,yes,2,not graduate,no,2500,3333,131,360,1,urban
+lp002009,female,no,0,graduate,no,2918,0,65,360,1,rural
+lp002016,male,yes,2,graduate,no,5128,0,143,360,1,rural
+lp002017,male,yes,3,graduate,no,15312,0,187,360,1,urban
+lp002018,male,yes,2,graduate,no,3958,2632,160,360,1,semiurban
+lp002027,male,yes,0,graduate,no,4334,2945,165,360,1,semiurban
+lp002028,male,yes,2,graduate,no,4358,0,110,360,1,urban
+lp002042,female,yes,1,graduate,no,4000,3917,173,360,1,rural
+lp002045,male,yes,3,graduate,no,10166,750,150,341,1,urban
+lp002046,male,yes,0,not graduate,no,4483,0,135,360,1,semiurban
+lp002047,male,yes,2,not graduate,no,4521,1184,150,360,1,semiurban
+lp002056,male,yes,2,graduate,no,9167,0,235,360,1,semiurban
+lp002059,male,yes,2,graduate,no,7874,3967,336,360,1,rural
+lp002062,female,yes,1,graduate,no,4333,0,132,84,1,rural
+lp002064,male,no,0,graduate,no,4083,0,96,360,1,urban
+lp002069,male,yes,2,not graduate,no,3785,2912,180,360,0,rural
+lp002070,male,yes,3,not graduate,no,2654,1998,128,360,0,rural
+lp002077,male,yes,1,graduate,no,10000,2690,412,360,1,semiurban
+lp002083,male,no,0,graduate,yes,5833,0,116,360,1,urban
+lp002090,male,yes,1,graduate,no,4796,0,114,360,0,semiurban
+lp002096,male,yes,0,not graduate,no,2000,1600,115,360,1,rural
+lp002099,male,yes,2,graduate,no,2540,700,104,360,0,urban
+lp002102,male,yes,0,graduate,yes,1900,1442,88,360,1,rural
+lp002105,male,yes,0,graduate,yes,8706,0,108,480,1,rural
+lp002107,male,yes,3,not graduate,no,2855,542,90,360,1,urban
+lp002111,male,yes,0,graduate,no,3016,1300,100,360,1,urban
+lp002117,female,yes,0,graduate,no,3159,2374,108,360,1,semiurban
+lp002118,female,no,0,graduate,no,1937,1152,78,360,1,semiurban
+lp002123,male,yes,0,graduate,no,2613,2417,123,360,1,semiurban
+lp002125,male,yes,1,graduate,no,4960,2600,187,360,1,semiurban
+lp002148,male,yes,1,graduate,no,3074,1083,146,360,1,semiurban
+lp002152,female,no,0,graduate,no,4213,0,80,360,1,urban
+lp002165,male,no,1,not graduate,no,2038,4027,100,360,1,rural
+lp002167,female,no,0,graduate,no,2362,0,55,360,1,urban
+lp002168,male,no,0,graduate,no,5333,2400,200,360,0,rural
+lp002172,male,yes,3,graduate,yes,5384,0,150,360,1,semiurban
+lp002176,male,no,0,graduate,no,5708,0,150,360,1,rural
+lp002183,male,yes,0,not graduate,no,3754,3719,118,341,1,rural
+lp002184,male,yes,0,not graduate,no,2914,2130,150,300,1,urban
+lp002186,male,yes,0,not graduate,no,2747,2458,118,36,1,semiurban
+lp002192,male,yes,0,graduate,no,7830,2183,212,360,1,rural
+lp002195,male,yes,1,graduate,yes,3507,3148,212,360,1,rural
+lp002208,male,yes,1,graduate,no,3747,2139,125,360,1,urban
+lp002212,male,yes,0,graduate,no,2166,2166,108,360,1,urban
+lp002240,male,yes,0,not graduate,no,3500,2168,149,360,1,rural
+lp002245,male,yes,2,not graduate,no,2896,0,80,480,1,urban
+lp002253,female,no,1,graduate,no,5062,0,152,300,1,rural
+lp002256,female,no,2,graduate,yes,5184,0,187,360,0,semiurban
+lp002257,female,no,0,graduate,no,2545,0,74,360,1,urban
+lp002264,male,yes,0,graduate,no,2553,1768,102,360,1,urban
+lp002270,male,yes,1,graduate,no,3436,3809,100,360,1,rural
+lp002279,male,no,0,graduate,no,2412,2755,130,360,1,rural
+lp002286,male,yes,3,not graduate,no,5180,0,125,360,0,urban
+lp002294,male,no,0,graduate,no,14911,14507,130,360,1,semiurban
+lp002298,male,no,0,graduate,yes,2860,2988,138,360,1,urban
+lp002306,male,yes,0,graduate,no,1173,1594,28,180,1,rural
+lp002310,female,no,1,graduate,no,7600,0,92,360,1,semiurban
+lp002311,female,yes,0,graduate,no,2157,1788,104,360,1,urban
+lp002316,male,no,0,graduate,no,2231,2774,176,360,0,urban
+lp002321,female,no,0,graduate,no,2274,5211,117,360,0,semiurban
+lp002325,male,yes,2,not graduate,no,6166,13983,102,360,1,rural
+lp002326,male,yes,2,not graduate,no,2513,1110,107,360,1,semiurban
+lp002329,male,no,0,graduate,no,4333,0,66,480,1,urban
+lp002333,male,no,0,not graduate,no,3844,0,105,360,1,urban
+lp002339,male,yes,0,graduate,no,3887,1517,105,360,0,semiurban
+lp002344,male,yes,0,graduate,no,3510,828,105,360,1,semiurban
+lp002346,male,yes,0,graduate,no,2539,1704,125,360,0,rural
+lp002354,female,no,0,not graduate,no,2107,0,64,360,1,semiurban
+lp002355,male,yes,0,graduate,no,3186,3145,150,180,0,semiurban
+lp002358,male,yes,2,graduate,yes,5000,2166,150,360,1,urban
+lp002375,male,yes,0,not graduate,yes,3943,0,64,360,1,semiurban
+lp002376,male,no,0,graduate,no,2925,0,40,180,1,rural
+lp002383,male,yes,3,graduate,no,3242,437,142,480,0,urban
+lp002385,male,yes,0,graduate,no,3863,0,70,300,1,semiurban
+lp002389,female,no,1,graduate,no,4028,0,131,360,1,semiurban
+lp002394,male,yes,2,graduate,no,4010,1025,120,360,1,urban
+lp002397,female,yes,1,graduate,no,3719,1585,114,360,1,urban
+lp002399,male,no,0,graduate,no,2858,0,123,360,0,rural
+lp002400,female,yes,0,graduate,no,3833,0,92,360,1,rural
+lp002402,male,yes,0,graduate,no,3333,4288,160,360,1,urban
+lp002412,male,yes,0,graduate,no,3007,3725,151,360,1,rural
+lp002415,female,no,1,graduate,no,1850,4583,81,360,1,rural
+lp002417,male,yes,3,not graduate,no,2792,2619,171,360,1,semiurban
+lp002420,male,yes,0,graduate,no,2982,1550,110,360,1,semiurban
+lp002425,male,no,0,graduate,no,3417,738,100,360,1,rural
+lp002433,male,yes,1,graduate,no,18840,0,234,360,1,rural
+lp002440,male,yes,2,graduate,no,2995,1120,184,360,1,rural
+lp002441,male,no,0,graduate,no,3579,3308,138,360,1,semiurban
+lp002442,female,yes,1,not graduate,no,3835,1400,112,480,0,urban
+lp002445,female,no,1,not graduate,no,3854,3575,117,360,1,rural
+lp002450,male,yes,2,graduate,no,5833,750,49,360,0,rural
+lp002471,male,no,0,graduate,no,3508,0,99,360,1,rural
+lp002476,female,yes,3,not graduate,no,1635,2444,99,360,1,urban
+lp002482,female,no,0,graduate,yes,3333,3916,212,360,1,rural
+lp002485,male,no,1,graduate,no,24797,0,240,360,1,semiurban
+lp002495,male,yes,2,graduate,no,5667,440,130,360,0,semiurban
+lp002496,female,no,0,graduate,no,3500,0,94,360,0,semiurban
+lp002523,male,yes,3,graduate,no,2773,1497,108,360,1,semiurban
+lp002542,male,yes,0,graduate,no,6500,0,144,360,1,urban
+lp002550,female,no,0,graduate,no,5769,0,110,180,1,semiurban
+lp002551,male,yes,3,not graduate,no,3634,910,176,360,0,semiurban
+lp002553,male,no,0,graduate,no,29167,0,185,360,1,semiurban
+lp002554,male,no,0,graduate,no,2166,2057,122,360,1,semiurban
+lp002561,male,yes,0,graduate,no,5000,0,126,360,1,rural
+lp002566,female,no,0,graduate,no,5530,0,135,360,1,urban
+lp002568,male,no,0,not graduate,no,9000,0,122,360,1,rural
+lp002570,female,yes,2,graduate,no,10000,11666,460,360,1,urban
+lp002572,male,yes,1,graduate,no,8750,0,297,360,1,urban
+lp002581,male,yes,0,not graduate,no,2157,2730,140,360,1,rural
+lp002584,male,no,0,graduate,no,1972,4347,106,360,1,rural
+lp002592,male,no,0,graduate,no,4983,0,141,360,1,urban
+lp002599,male,yes,0,graduate,no,3667,2000,170,360,1,semiurban
+lp002604,male,yes,2,graduate,no,3166,2833,145,360,1,urban
+lp002605,male,no,0,not graduate,no,3271,0,90,360,1,rural
+lp002609,female,yes,0,graduate,no,2241,2000,88,360,0,urban
+lp002610,male,yes,1,not graduate,no,1792,2565,128,360,1,urban
+lp002612,female,yes,0,graduate,no,2666,0,84,480,1,semiurban
+lp002614,male,no,0,graduate,no,6478,0,108,360,1,semiurban
+lp002630,male,no,0,not graduate,no,3808,0,83,360,1,rural
+lp002635,female,yes,2,not graduate,no,3729,0,117,360,1,semiurban
+lp002639,male,yes,2,graduate,no,4120,0,128,360,1,rural
+lp002644,male,yes,1,graduate,yes,7500,0,75,360,1,urban
+lp002651,male,yes,1,graduate,no,6300,0,125,360,0,urban
+lp002654,female,no,0,graduate,yes,14987,0,177,360,1,rural
+lp002657,male,yes,1,not graduate,yes,570,2125,68,360,1,rural
+lp002711,male,yes,0,graduate,no,2600,700,96,360,1,semiurban
+lp002712,male,no,2,not graduate,no,2733,1083,180,360,1,semiurban
+lp002721,male,yes,2,graduate,yes,7500,0,183,360,1,rural
+lp002735,male,yes,2,not graduate,no,3859,0,121,360,1,rural
+lp002744,male,yes,1,graduate,no,6825,0,162,360,1,rural
+lp002745,male,yes,0,graduate,no,3708,4700,132,360,1,semiurban
+lp002746,male,no,0,graduate,no,5314,0,147,360,1,urban
+lp002747,female,no,3,graduate,no,2366,5272,153,360,0,rural
+lp002754,male,no,0,graduate,no,2066,2108,104,84,1,urban
+lp002759,male,yes,2,graduate,no,5000,0,149,360,1,rural
+lp002760,female,no,0,graduate,no,3767,0,134,300,1,urban
+lp002766,female,yes,0,graduate,no,7859,879,165,180,1,semiurban
+lp002769,female,yes,0,graduate,no,4283,0,120,360,1,rural
+lp002774,male,yes,0,not graduate,no,1700,2900,67,360,0,urban
+lp002775,male,no,0,not graduate,no,4768,0,125,360,1,rural
+lp002781,male,no,0,graduate,no,3083,2738,120,360,1,urban
+lp002782,male,yes,1,graduate,no,2667,1542,148,360,1,rural
+lp002786,female,yes,0,not graduate,no,1647,1762,181,360,1,urban
+lp002790,male,yes,3,graduate,no,3400,0,80,120,1,urban
+lp002791,male,no,1,graduate,no,16000,5000,40,360,1,semiurban
+lp002793,male,yes,0,graduate,no,5333,0,90,360,1,rural
+lp002802,male,no,0,graduate,no,2875,2416,95,6,0,semiurban
+lp002803,male,yes,1,not graduate,no,2600,618,122,360,1,semiurban
+lp002805,male,yes,2,graduate,no,5041,700,150,360,1,urban
+lp002806,male,yes,3,graduate,yes,6958,1411,150,360,1,rural
+lp002816,male,yes,1,graduate,no,3500,1658,104,360,1,semiurban
+lp002823,male,yes,0,graduate,no,5509,0,143,360,1,rural
+lp002825,male,yes,3,graduate,no,9699,0,300,360,1,urban
+lp002826,female,yes,1,not graduate,no,3621,2717,171,360,1,urban
+lp002843,female,yes,0,graduate,no,4709,0,113,360,1,semiurban
+lp002849,male,yes,0,graduate,no,1516,1951,35,360,1,semiurban
+lp002850,male,no,2,graduate,no,2400,0,46,360,1,urban
+lp002853,female,no,0,not graduate,no,3015,2000,145,360,1,urban
+lp002856,male,yes,0,graduate,no,2292,1558,119,360,1,urban
+lp002857,male,yes,1,graduate,yes,2360,3355,87,240,1,rural
+lp002858,female,no,0,graduate,no,4333,2333,162,360,0,rural
+lp002860,male,yes,0,graduate,yes,2623,4831,122,180,1,semiurban
+lp002867,male,no,0,graduate,yes,3972,4275,187,360,1,rural
+lp002869,male,yes,3,not graduate,no,3522,0,81,180,1,rural
+lp002870,male,yes,1,graduate,no,4700,0,80,360,1,urban
+lp002876,male,no,0,graduate,no,6858,0,176,360,1,rural
+lp002878,male,yes,3,graduate,no,8334,0,260,360,1,urban
+lp002879,male,yes,0,graduate,no,3391,1966,133,360,0,rural
+lp002885,male,no,0,not graduate,no,2868,0,70,360,1,urban
+lp002890,male,yes,2,not graduate,no,3418,1380,135,360,1,urban
+lp002891,male,yes,0,graduate,yes,2500,296,137,300,1,rural
+lp002899,male,yes,2,graduate,no,8667,0,254,360,1,rural
+lp002901,male,no,0,graduate,no,2283,15000,106,360,1,rural
+lp002907,male,yes,0,graduate,no,5817,910,109,360,1,urban
+lp002920,male,yes,0,graduate,no,5119,3769,120,360,1,rural
+lp002921,male,yes,3,not graduate,no,5316,187,158,180,0,semiurban
+lp002932,male,yes,3,graduate,no,7603,1213,197,360,1,urban
+lp002935,male,yes,1,graduate,no,3791,1936,85,360,1,urban
+lp002952,male,no,0,graduate,no,2500,0,60,360,1,urban
+lp002954,male,yes,2,not graduate,no,3132,0,76,360,1,rural
+lp002962,male,no,0,graduate,no,4000,2667,152,360,1,semiurban
+lp002965,female,yes,0,graduate,no,8550,4255,96,360,1,urban
+lp002969,male,yes,1,graduate,no,2269,2167,99,360,1,semiurban
+lp002971,male,yes,3,not graduate,yes,4009,1777,113,360,1,urban
+lp002975,male,yes,0,graduate,no,4158,709,115,360,1,urban
+lp002980,male,no,0,graduate,no,3250,1993,126,360,1,semiurban
+lp002986,male,yes,0,graduate,no,5000,2393,158,360,1,rural
+lp002989,male,no,0,graduate,yes,9200,0,98,180,1,rural
